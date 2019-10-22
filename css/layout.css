@@ -1,0 +1,62 @@
+.ul-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: tan	;
+}
+
+.li-nav {
+  float: left;
+}
+
+.li-nav a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.li-nav a:hover {
+  background-color:white ;
+  color:black;
+
+}
+body {
+  background: url(../images/DW.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+    background-attachment: fixed;
+}
+
+body  {
+background-image: url("paper.gif");
+background-color: 		white	;
+}
+
+p.normal {
+  font-weight: normal;
+}
+
+p.light {
+  font-weight: lighter;
+}
+
+p {
+  font-weight: bold;
+}
+
+p.thicker {
+  font-weight: 900;
+}
+
+footer {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-align: center;
+	font-size: 0.7em;
+	border-top: 2px solid black;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
